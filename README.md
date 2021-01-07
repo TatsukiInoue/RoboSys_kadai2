@@ -30,9 +30,7 @@ $ source ~/.bashrc
 端末２：$ chmod +x count.py
 端末２：$ rosrun mypkg count.py
 端末３：$ rostopic echo /count_up
-端末４：$ 
+端末４：$ rostopic echo /twice
 ```
-
-
 
 ### 動画のリンク
