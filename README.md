@@ -12,8 +12,8 @@
 | OS | Ubuntu16.04 |
 
 ### インストール方法
-```
 ・ワークスペースの作成
+```
 $ cd
 $ mkdir -p catkin_ws/src
 $ cd ~/catkin_ws/src
@@ -22,7 +22,17 @@ $ cd ~/catkin_ws
 $ catkin_make
 $ source ~/.bashrc
 ```
+
 ### 実行方法
+
+```
+端末１：$ roscore
+端末２：$ chmod +x count.py
+端末２：$ rosrun mypkg count.py
+端末３：$ rostopic echo /count_up
+端末４：$ 
+```
+
 
 
 ### 動画のリンク
