@@ -12,7 +12,7 @@
 | OS | Ubuntu16.04 |
 
 ### インストール方法
-
+```
 ・ワークスペースの作成
 $ cd
 $ mkdir -p catkin_ws/src
@@ -21,7 +21,7 @@ $ catkin_init_workspace
 $ cd ~/catkin_ws
 $ catkin_make
 $ source ~/.bashrc
-
+```
 ### 実行方法
 
 
