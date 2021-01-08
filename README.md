@@ -36,3 +36,4 @@ $ source ~/.bashrc
 ```
 
 ### 動画のリンク
+https://youtu.be/YAYG_lZugpE
